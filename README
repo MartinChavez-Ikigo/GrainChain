@@ -1,0 +1,7 @@
+Sobre el proyecto ejecutar lo siguiente:
+  1- npm i 
+  2- nodemon
+  3- En la carpeta public/archivos/matriz.txt editar la matriz.
+  4- Ejecutar en el navegador la url: http://localhost:3000/test para inciar el código de verificación.
+     Sobre el navegador se despliegan los resultados solicitados.
+     
