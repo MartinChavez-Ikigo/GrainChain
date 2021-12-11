@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  h1= title
+  p Posición de muros detectados:
+  ul
+  each bard in bardas
+       li= bard
+
+  p Posición de focos colocados:
+  ul
+  each lamp in lamparas
+       li= lamp
+    
